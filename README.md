@@ -1,4 +1,4 @@
-# reading_streak
+# Reading Streak
 A reading streak app for the [Pala One](https://github.com/Chris24680/pala-one-firmware) e-ink reader.
 
 ## Controls
